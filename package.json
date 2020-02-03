@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "kyanite": "^1.1.0",
     "mysql": "^2.16.0",
     "path": "^0.12.7"
   }
